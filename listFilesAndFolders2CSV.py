@@ -13,7 +13,7 @@ __status__ = "Production"
 
 # USER PARAM
 # put / instead of \ in path
-path_of_the_directory = "D:/temp/MLC - Offres techniques 2023 09 10/ETF_AO_-_RFQ_unique-1208325"
+path_of_the_directory = "C:/temp/example"
 filesListCSVname = "filesList.csv"
 foldersListCSVname = "foldersList.csv"
 
