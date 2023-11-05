@@ -1,5 +1,4 @@
 # Python utility scripts
-
 A set of simple Python3 scripts useful for daily automation projects.
 
 ## Installation
